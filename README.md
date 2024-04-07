@@ -11,3 +11,6 @@ Download the ENG2ROM.json file, then put it in the english-arpabet folder, in th
 To use the dictionary, simply click the ENG2ROM dictionary and set the singing language to English for the chosen voicebank, then type the Romanian words, diacritics included (note that 'ș' and 'ț' do not appear in the entered lyrics, but the sounds they represent, 'sh' and 't s', appear in the phonetic translation and they work, so don't worry).
 
 # Warning: THIS IS NOT A PLUG-AND-PLAY SOLUTION. Phoneme adjustement is needed for some syllables to sound better.
+
+You're free to use this dictionary and modify it as you want, but please give me credit or link to this repository.
+Also I request that this dictionary should not be used for blasphemous content, hate speech of any kind and political, religious or other types of propaganda.
