@@ -1,5 +1,5 @@
 # ENG2ROM-Dictionary-Midi-P
-A Romanian words to English arpabet phonemes dictionary for Synthesizer V by Midi-P (me).
+A Romanian words to English arpabet phonemes dictionary for Synthesizer V by Midi-P (me). Support me on Buy Me A Coffee: https://www.buymeacoffee.com/theorose
 
 This dictionary was generated with the help of the Python add-on, spacey-syllables (https://github.com/sloev/spacy-syllables/blob/master/README.md) and a list of all 190000+ Romanian words (rodictionary.txt).
 The code used is in the rolang.py file, in case someone wants to modify it.
